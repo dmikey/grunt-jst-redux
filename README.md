@@ -1,4 +1,4 @@
-# grunt-contrib-jst v0.7.1 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-jst.png?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-jst)
+# grunt-contrib-jst v0.7.1 [![Build Status: Linux](https://travis-ci.org/dmikey/grunt-jst-redux.svg)](https://travis-ci.org/dmikey/grunt-jst-redux)
 
 > Precompile Underscore templates to JST file.
 
