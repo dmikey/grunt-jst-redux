@@ -1,7 +1,7 @@
 {
   "name": "grunt-jst-redux",
   "description": "Precompile Underscore templates to JST file",
-  "version": "0.7.0-pre",
+  "version": "0.7.1",
   "author": {
     "name": "Derek Anderson",
     "url": "http://github.com/dmikey"
