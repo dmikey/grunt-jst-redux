@@ -1,12 +1,12 @@
 {
-  "name": "grunt-contrib-jst",
+  "name": "grunt-jst-redux",
   "description": "Precompile Underscore templates to JST file",
   "version": "0.7.0-pre",
   "author": {
-    "name": "Grunt Team",
-    "url": "http://gruntjs.com/"
+    "name": "Derek Anderson",
+    "url": "http://github.com/dmikey"
   },
-  "repository": "gruntjs/grunt-contrib-jst",
+  "repository": "dmikey/grunt-jst-redux",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
