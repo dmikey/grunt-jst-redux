@@ -20,6 +20,8 @@ module.exports = function (grunt) {
         var lf = grunt.util.linefeed;
         var helpers = require('grunt-lib-contrib').init(grunt);
         var options = this.options({
+            nolodash: true,
+            cjs: true,
             namespace: 'JST',
             templateSettings: {},
             processContent: function (src) {
@@ -97,7 +99,7 @@ module.exports = function (grunt) {
                 }
 
                 //support CJS
-                if (options.cjs && options.amd === false) {
+                if (options.cjs) {
                     output.push("module.exports =" + nsInfo.namespace + ";");
                 }
 
